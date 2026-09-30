@@ -4,6 +4,10 @@
 
 The project includes **exploratory data analysis, data preprocessing, model training & evaluation**, and an interactive **Streamlit web application** for price prediction.
 
+## 🚀 Live Demo
+
+**_Streamlit Cloud_**: [https://melbourne-house-price-prediction-app-maruf39237.streamlit.app/](https://melbourne-house-price-prediction-app-maruf39237.streamlit.app/)
+
 ---
 
 ## ✨ Features
