@@ -1,0 +1,24 @@
+melbourne-house-price-prediction/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── Data/
+│   ├── Melbourne_housing.csv
+│   └── Cleaned_dataset.csv
+├── Model/
+│   ├── feature_names.pkl
+|   ├── linear_regression.joblib
+│   ├── linear_regression.pkl
+│   └── metrics.json
+├── Notebook/
+│   ├── 01_EDA.ipynb
+│   ├── 02_Preprocessing.ipynb
+│   └── 03_Model Run.ipynb
+├── pages/
+│   ├── 1_Home.py
+│   ├── 2_EDA.py
+│   └── 3_Prediction.py
+└── Structure/
+    └── module.txt
